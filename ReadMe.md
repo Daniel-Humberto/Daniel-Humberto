@@ -1,4 +1,6 @@
-# ¡Hola! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Me llamo Daniel Humberto Reyes Rocha
+# ¡Hola! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
+# Mi Nombre es  Daniel Humberto Reyes Rocha
+
 ---
 
 ## Ingeniero en Software y Sistemas Computacionales
@@ -7,7 +9,7 @@ Soy un estudiante de Ingeniería de Software y Sistemas Computacionales, próxim
 
 - 🌍 Vivo en México
 - ✉️ Puedes contactarme en [DanielHumbertoReyesRocha@Outlook.com](mailto:DanielHumbertoReyesRocha@Outlook.com)
-- 🧠 Actualmente estoy aprendiendo Análisis de Datos
+- 🧠 Actualmente estoy aprendiendo Data Analysis
 - 🤝 Estoy abierto a colaborar en prácticas profesionales
 
 ---
