@@ -6,7 +6,7 @@
 
 Soy un estudiante de Ingeniería en Software y Sistemas Computacionales con experiencia en administración de inventarios, gestión y capacitación de personal, desarrollo web, y soluciones basadas en datos. 
 
-Mis proyectos personales de Software actuales están enfocados en Data Analysis, y Data Science, desarrollados con Power BI, Python, R, y SQL. En áreas como la visualización, depuración, y procesamiento de datos, para ayudar a la toma de decisiones. 
+Mis proyectos personales de Software actuales están enfocados en Data Analysis, y Data Science, desarrollados con Power BI, Python, R, y SQL, para ayudar a la toma de decisiones
 Con librerías de Python como Numpy, Matplotlib, Seaborn, Plotly y Altair, para la visualización, y Pandas, Statsmodels, CatBoost, Scipy, y Scikit-learn, para el procesamiento de datos. 
 
 Tengo intenciones de especializarme en el Futuro, en el desarrollo y entrenamiento de nuevos modelos de Inteligencia Artificial. Con tecnologías como Machine Learning, Deep Learning, LLM, y Transformers. En frameworks como PyTorch, TensorFlow, y Keras.
