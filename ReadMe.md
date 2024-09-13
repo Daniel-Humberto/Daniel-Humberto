@@ -8,7 +8,7 @@ Futuro Ingeniero en Software, Apasionado por la Tecnología, Data Science, Big D
 
 - 🌍 Vivo en México
 - ✉️ Puedes contactarme en [DanielHumbertoReyesRocha@Outlook.com](mailto:DanielHumbertoReyesRocha@Outlook.com)
-- 🧠 Actualmente estoy aprendiendo Data Analysis
+- 🧠 Actualmente estoy aprendiendo Data Science
 - 🤝 Estoy abierto a colaborar en prácticas profesionales
 
 ---
