@@ -50,7 +50,7 @@ Futuro Ingeniero en Software, Apasionado por la Tecnología, Data Science, Big D
 ## Redes Sociales
 
 <p align="left">
-  <a href="https://www.codepen.io/Daniel-Humberto" target="_blank" rel="noreferrer">
+  <a href="https://codepen.io/Daniel-Humberto" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" />
