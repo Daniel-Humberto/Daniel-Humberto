@@ -4,7 +4,7 @@
 
 ## Ingeniero en Software y Sistemas Computacionales
 
-Soy un estudiante de Ingeniería de Software y Sistemas Computacionales, próximo a titularme. Apasionado por la Tecnología, la Inteligencia Artificial y el Big Data.
+Futuro Ingeniero en Software, Apasionado por la Tecnología, Data Science, Big Data, e Inteligencia Artificial.
 
 - 🌍 Vivo en México
 - ✉️ Puedes contactarme en [DanielHumbertoReyesRocha@Outlook.com](mailto:DanielHumbertoReyesRocha@Outlook.com)
