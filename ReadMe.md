@@ -4,12 +4,10 @@
 
 ## Ingeniero en Software y Sistemas Computacionales
 
-Soy un estudiante de Ingeniería en Software y Sistemas Computacionales a punto de titularse con experiencia en administración de inventarios, gestión y capacitación de personal, desarrollo web Full Stack, y soluciones basadas en datos. 
+Soy un Ingenierio en Software y Sistemas Computacionales a punto de titularse, con experiencia en desarrollo web Full Stack y soluciones basadas en datos. 
 
-Mis actuales proyectos personales de Software están enfocados en Data Analysis, y Data Science, desarrollados con Python, y SQL, para ayudar a la toma de decisiones.
+Mis actuales proyectos personales de Software están enfocados en Data Analysis, y Data Science, desarrollados en Python, junto con bases de datos SQL.
 Tengo experiencia con librerías de Python como Numpy, Matplotlib, Seaborn, Plotly y Altair, para la visualización, y Pandas, CatBoost, Scipy, y Scikit-learn, para el procesamiento de datos. 
-
-Tengo intenciones de especializarme en el Futuro, en el desarrollo de nuevos modelos de Inteligencia Artificial. Con tecnologías como Machine Learning, Deep Learning. En frameworks como TensorFlow, PyTorch, y Keras.
 
 
 - 🌍 Vivo en México
