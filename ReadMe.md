@@ -2,7 +2,7 @@
 
 ------------------------------------------------
 
-Ingeniero en Software y Sistemas Computacionales
+## Ingeniero en Software y Sistemas Computacionales
 
 ------------------------------------------------
 
