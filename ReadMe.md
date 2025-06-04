@@ -9,7 +9,7 @@
 Soy Ingenierio en Software y Sistemas Computacionales a punto de titularse, con experiencia en desarrollo Web Full Stack y soluciones basadas en datos.
 
 Tengo experiencia en desarrollo web Full Stack con Laravel, Node.JS, Express.js, Next.JS, y React.
-Mis actuales proyectos personales de Software están enfocados en Data Analysis, y Data Science, desarrollados en Python,  junto con bases de datos SQL, archivos CSV, JSON, Excel, y PowerBI. Tengo experiencia con librerías de Python como Numpy, Pandas, CatBoost, Scipy, PuLP, Scikit-learn, y TensorFlow para el procesamiento de datos, y Matplotlib, Seaborn, Altair, y Plotly, para la visualización.
+Mis actuales proyectos personales de Software están enfocados en Data Analysis, y Data Science, desarrollados en Python, PowerBI junto con bases de datos SQL, archivos CSV, Excel, y JSON. Tengo experiencia con librerías de Python como Numpy, Pandas, CatBoost, Scipy, PuLP, Scikit-learn, y TensorFlow para el procesamiento de datos, y Matplotlib, Seaborn, Altair, y Plotly, para la visualización.
 
 - 🌍  Vivo en México
 - 🧠  Actualmente estoy especializandome en Data Science
