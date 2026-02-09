@@ -4,7 +4,7 @@
 
 ---
 
-Soy Ingeniero en Software y Sistemas Computacionales a punto de titularse, con experiencia en desarrollo Web Full Stack y soluciones basadas en datos.
+Soy Ingeniero en Software y Sistemas Computacionales con experiencia en desarrollo Web Full Stack y soluciones basadas en datos.
 
 Tengo experiencia en desarrollo Web Full Stack con Laravel, Node.JS, Express.js, Next.JS, y React.  
 Mis actuales proyectos personales de Software están enfocados en **Data Analysis** y **Data Science**, desarrollados en **Python** y **Power BI**, junto con bases de datos SQL, archivos Excel, CSV y JSON.  
