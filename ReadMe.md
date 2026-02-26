@@ -12,7 +12,7 @@ Tengo experiencia con librerías de Python como **Numpy, Pandas, CatBoost, Scipy
 
 - 🌍 Vivo en México  
 - 🧠 Actualmente estoy especializándome en Data Science  
-- 🤝 Estoy abierto a colaborar en prácticas profesionales empresariales  
+- 🤝 Estoy abierto a colaborar en empresas
 - ✉️ Puedes contactarme a través de [DanielHumbertoReyesRocha@Outlook.com](mailto:DanielHumbertoReyesRocha@Outlook.com)
 
 ---
