@@ -10,7 +10,7 @@
 
 Soy Ingeniero en Software y Sistemas Computacionales especializado en diseñar y construir soluciones tecnológicas eficientes y confiables que resuelven problemas reales, desde sistemas web y pipelines de datos, hasta sistemas RAG y arquitecturas MultiAgente con persistencia de memoria orientados a producción.
 
-Del código a los datos, y de los datos a la IA. Mi trayectoria comenzó en el Desarrollo Web Full Stack, evolucionó hacia Data Science y DevOps, y actualmente me especializo como AI Engineer con foco en MLOps, LLMOps y GenAI Ops.
+Del código a los datos, y de los datos a la IA. Mi trayectoria comenzó en el Desarrollo Web Full Stack, evolucionó hacia Data Science y DevOps, y actualmente me especializo como Senior AI Engineer con foco en MLOps, LLMOps y GenAI Ops.
 
 Creo que el mayor reto actual de la IA no es construir nuevos modelos, sino llevarlos a producción. Por eso me enfoco en el diseño de pipelines, establezco guardrails y sandboxes, y aseguro soberanía de datos para que los LLMs y agentes de IA funcionen de forma segura y escalable en entornos reales.
 
@@ -22,9 +22,9 @@ Creo que el mayor reto actual de la IA no es construir nuevos modelos, sino llev
 
 | Área | Enfoque Estratégico | Stack Tecnológico Clave |
 | :--- | :--- | :--- |
-| **AI Engineering** | Orquestacion y operación de sistemas de IA generativa. Desde la inferencia y los pipelines RAG, hasta la orquestación de agentes de IA autónomos en producción. | Python, LangChain, LlamaIndex, CrewAI, Vector DBs, MLflow, Docker, Kubernetes. |
-| **Data Science** | Modelado analítico y machine learning para la extracción de insights y la alimentación de sistemas inteligentes. | Pandas, NumPy, Scikit-learn, TensorFlow, Plotly, Power BI, SQL. |
-| **Full-Stack Development** | Desarrollo de interfaces y aplicaciones Web, y configuración de la infraestructura necesaria, mediante el uso del enfoque DevOps. | TypeScript, React, Next.js, Node.js, Laravel, Go, PostgreSQL. |
+| **AI Engineering** | Orquestacion y operación de sistemas de IA generativa. Desde la inferencia y los pipelines RAG, hasta la orquestación de agentes de IA autónomos en producción. | Python, LangChain, LlamaIndex, CrewAI, LangGraph, Vector DBs, MLflow, Docker, Kubernetes, Fine Tunning. |
+| **Data Science** | Modelado analítico y machine learning para la extracción de insights y la alimentación de sistemas inteligentes. | Pandas, NumPy, Pulp, Scikit-learn, XGBoost, Random Forest, TensorFlow, Plotly, Power BI, Power Automate, SQL. |
+| **Full-Stack Development** | Desarrollo de interfaces y aplicaciones Web, y configuración de la infraestructura necesaria, mediante el uso del enfoque DevOps. | Docker, Prometheus, PostgreSQL, Redis, Laravel, Node.js, Next.js, React, TypeScript, Grafana. |
 
 
 ---
