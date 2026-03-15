@@ -1,7 +1,6 @@
 <div align="center">
 
 ![red-core](https://capsule-render.vercel.app/api?type=waving&color=0:870000,100:190a05&height=200&section=header&text=Daniel%20Humberto%20Reyes%20Rocha&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=DevOps%20%7C%20Data%20Science%20%7C%20AI%20Engineering&descSize=16&descAlignY=58&descColor=fca5a5&animation=fadeIn)
-
 <br>
 </div>
 
@@ -13,7 +12,7 @@ Soy Ingeniero en Software y Sistemas Computacionales especializado en diseñar y
 
 Del código a los datos, y de los datos a la IA. Mi trayectoria profesional comenzó en el Desarrollo Web Full Stack, evolucionó hacia Data Science y DevOps, y actualmente me especializo como Gen AI Ops Engineer.
 
-Creo que el mayor reto actual de la IA no es construir nuevos modelos, si no llevarlos a producción. Por eso me enfoco en el diseño de pipelines, establezco guardrails o sandboxes y monitoreo, asegurando soberanía de datos y que los LLMs y agentes de IA funcionen de forma segura y escalable en producción.
+Creo que el mayor reto actual de la IA no es construir nuevos modelos, sino llevarlos a producción. Por eso me enfoco en el diseño de pipelines, establezco guardrails o sandboxes y monitoreo, asegurando soberanía de datos y que los LLMs y agentes de IA funcionen de forma segura y escalable en producción.
 
 
 ---
