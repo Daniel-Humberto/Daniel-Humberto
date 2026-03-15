@@ -1,21 +1,35 @@
-# ¡Hola! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Mi Nombre es Daniel Humberto Reyes Rocha
+ <div align="center">
 
-## Ingeniero en Software y Sistemas Computacionales
+![red-core](https://capsule-render.vercel.app/api?type=waving&color=0:870000,100:190a05&height=200&section=header&text=Daniel%20Humberto%20Reyes%20Rocha&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20DevOps%20%7C%20Data%20Science%20%7C%20GenAI%20Ops&descSize=16&descAlignY=58&descColor=fca5a5&animation=fadeIn)
+<br>
+
+</div>
+
+
+---
+
+
+Soy Ingeniero en Software y Sistemas Computacionales especializado en diseñar  y construir soluciones tecnológicas eficientes y confiables, que resuelven problemas reales.
+
+Del código a los datos, y de los datos a la IA. Mi trayectoria profesional comenzó en el Desarrollo Web Full Stack, evolucionó hacia Data Science y DevOps, y actualmente me especializo como Gen AI Ops Engineer.
+
+Creo que el mayor reto actual de la IA es escalar prototipos a producción, por eso me enfoco en el diseño de pipelines, establezco observabilidad y guardrails, y aseguro que LLMs y agentes funcionen de forma segura y escalable en producción.
+
 
 ---
 
-Soy Ingeniero en Software y Sistemas Computacionales con experiencia en desarrollo Web Full Stack y soluciones basadas en datos.
 
-Tengo experiencia en desarrollo Web Full Stack con Laravel, Node.JS, Express.js, Next.JS, y React.  
-Mis actuales proyectos personales de Software están enfocados en **Data Science** desarrollados con **Python** y **Power BI**, junto con bases de datos SQL, archivos Excel, CSV y JSON.
-Tengo experiencia con librerías de Python como **Numpy, Pandas, CatBoost, Scipy, PuLP, Scikit-learn** y **TensorFlow** para el procesamiento de datos, y **Matplotlib, Seaborn, Altair** y **Plotly** para la visualización.
+## Líneas principales de dominio
 
-- 🌍 Vivo en México  
-- 🧠 Actualmente estoy especializándome en Data Science  
-- 🤝 Estoy abierto a colaborar en empresas
-- ✉️ Puedes contactarme a través de [DanielHumbertoReyesRocha@Outlook.com](mailto:DanielHumbertoReyesRocha@Outlook.com)
+| Área | Enfoque Estratégico | Stack Tecnológico Clave |
+| :--- | :--- | :--- |
+| **Agent & AI Engineering** | Arquitectura y operación de sistemas de IA generativa, desde la inferencia hasta la orquestación de agentes autónomos. | Python, LangChain, LlamaIndex, CrewAI, Vector DBs (Weaviate, Qdrant), MLflow, Docker, Kubernetes. |
+| **Data Science** | Modelado analítico y machine learning para la extracción de insights y la alimentación de sistemas inteligentes. | Pandas, NumPy, Scikit-learn, TensorFlow, Power BI, SQL. |
+| **Full-Stack Development** | Desarrollo de APIs, interfaces y la infraestructura de soporte para aplicaciones de IA y productos de datos. | TypeScript, React, Next.js, Node.js, Laravel, Go, PostgreSQL, Prometheus. |
+
 
 ---
+
 
 <h3 align="center">Habilidades</h3>
 
@@ -41,7 +55,21 @@ Tengo experiencia con librerías de Python como **Numpy, Pandas, CatBoost, Scipy
   <a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a>
 </p>
 
+
 ---
+
+
+<h3 align="center">Top Languages in my Projects</h3>
+
+<p align="center">
+  <a href="https://github.com/Daniel-Humberto">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Humberto&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+  </a>
+</p>
+
+
+---
+
 
 <h3 align="center">Redes Sociales</h3>
 
@@ -76,14 +104,5 @@ Tengo experiencia con librerías de Python como **Numpy, Pandas, CatBoost, Scipy
   </a>
 </p>
 
----
-
-<h3 align="center">Top Languages in my Projects</h3>
-
-<p align="center">
-  <a href="https://github.com/Daniel-Humberto">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Humberto&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-  </a>
-</p>
 
 ---
