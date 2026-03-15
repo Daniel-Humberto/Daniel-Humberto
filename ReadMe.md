@@ -12,7 +12,7 @@ Soy Ingeniero en Software y Sistemas Computacionales especializado en diseñar y
 
 Del código a los datos, y de los datos a la IA. Mi trayectoria comenzó en el Desarrollo Web Full Stack, evolucionó hacia Data Science y DevOps, y actualmente me especializo como AI Engineer con foco en MLOps, LLMOps y GenAI Ops.
 
-Creo que el mayor reto actual de la IA no es construir nuevos modelos, sino llevarlos a producción. Por eso me enfoco en el diseño de pipelines, establezco guardrails y sandboxes, y aseguro soberanía de datos para que los LLMs y agentes de IA, funcionen de forma segura y escalable en entornos reales.
+Creo que el mayor reto actual de la IA no es construir nuevos modelos, sino llevarlos a producción. Por eso me enfoco en el diseño de pipelines, establezco guardrails y sandboxes, y aseguro soberanía de datos para que los Pipelines, LLMs y agentes de IA, funcionen de forma segura y escalable en entornos reales.
 
 
 ---
