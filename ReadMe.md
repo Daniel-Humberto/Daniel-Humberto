@@ -22,9 +22,9 @@ Creo que el mayor reto actual de la IA no es construir nuevos modelos, sino llev
 
 | Área | Enfoque Estratégico | Stack Tecnológico Clave |
 | :--- | :--- | :--- |
-| **AI Engineering** | Orquestacion y operación de sistemas de IA generativa. Desde la inferencia y los pipelines RAG, hasta la orquestación de agentes de IA autónomos en producción. | Python, LangChain, LlamaIndex, CrewAI, LangGraph, Vector DBs, MLflow, Docker, Kubernetes, Fine Tunning. |
-| **Data Science** | Modelado analítico y machine learning para la extracción de insights y la alimentación de sistemas inteligentes. | Pandas, NumPy, Pulp, Scikit-learn, XGBoost, Random Forest, TensorFlow, Plotly, Power BI, Power Automate, SQL. |
-| **Full-Stack Development** | Desarrollo de interfaces y aplicaciones Web, y configuración de la infraestructura necesaria, mediante el uso del enfoque DevOps. | Docker, Prometheus, PostgreSQL, Redis, Laravel, Node.js, Next.js, React, TypeScript, Grafana. |
+| **AI Engineering** | Orquestacion y operación de sistemas de IA generativa. Desde la inferencia y los pipelines RAG, hasta la orquestación de agentes de IA autónomos en producción. | Docker, Python, LangChain, LlamaIndex, CrewAI, LangGraph, Vector DBs, MLflow, Sandboxes, Fine Tunning, Grafana, Loki. |
+| **Data Science** | Modelado analítico y machine learning para la extracción de insights y la alimentación de sistemas inteligentes. | Pandas, NumPy, Pulp, Scikit-learn, XGBoost, Random Forest, TensorFlow, Matplotlib, Plotly, Power BI, Power Automate, SQL. |
+| **Full-Stack Development** | Desarrollo de interfaces y aplicaciones Web, y configuración de la infraestructura necesaria, mediante el uso del enfoque DevOps. | Docker, Prometheus, PostgreSQL, Redis, Laravel, Node.js, Next.js, React, JavaScript, TypeScript, Grafana, Loki. |
 
 
 ---
