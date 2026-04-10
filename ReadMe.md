@@ -18,18 +18,6 @@ Creo que el mayor reto actual de la IA no es construir nuevos modelos, sino llev
 ---
 
 
-## Líneas principales de dominio
-
-| Área | Enfoque Estratégico | Stack Tecnológico Clave |
-| :--- | :--- | :--- |
-| **AI Engineering** | Orquestacion y operación de sistemas de IA generativa. Desde la inferencia y los pipelines RAG, hasta la orquestación de agentes de IA autónomos en producción. | Docker, Python, LangChain, LlamaIndex, CrewAI, LangGraph, Vector DBs, MLflow, comfyUI, Sandboxes, Fine Tunning, Grafana, Loki. |
-| **Data Science** | Diseño, desarrollo, y automatizacion de sistemas y flujos de Data Analysis y Data Science capaces de ser desplegados On-premises o en la nube. | Docker, Power Automate, AirFlow, Pandas, NumPy, Scikit-learn, XGBoost, Random Forest, TensorFlow, Matplotlib, Plotly, Power BI,  SQL. |
-| **Full-Stack Development** |  Diseño y Desarrollo de interfaces y aplicaciones Web, y configuración de la infraestructura necesaria, mediante el uso del enfoque DevOps. | Docker, Prometheus, PostgreSQL, Redis, Laravel, Node.js, Next.js, React, JavaScript, TypeScript, Grafana, Loki. |
-
-
----
-
-
 <h3 align="center">Habilidades</h3>
 
 <p align="center">
