@@ -1,6 +1,6 @@
 <div align="center">
-
-![red-core](https://capsule-render.vercel.app/api?type=waving&color=0:870000,100:190a05&height=200&section=header&text=Daniel%20Humberto%20Reyes%20Rocha&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=DevOps%20%7C%20Data%20Science%20%7C%20AI%20Engineering&descSize=16&descAlignY=58&descColor=fca5a5&animation=fadeIn)
+  
+![red-core](https://capsule-render.vercel.app/api?type=waving&color=0:870000,100:190a05&height=200&section=header&text=Daniel%20Humberto%20Reyes%20Rocha&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=LLMOps%20%7C%20AI%20Infrastructure%20Engineer%20%7C%20MLOps&descSize=16&descAlignY=58&descColor=fca5a5&animation=fadeIn)
 <br>
 </div>
 
