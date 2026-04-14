@@ -7,12 +7,13 @@
 
 ---
 
+Soy AI Engineer especializado en diseñar y construir sistemas de inteligencia artificial listos para producción.
 
-Soy Ingeniero en Software y Sistemas Computacionales especializado en diseñar y construir soluciones tecnológicas eficientes y confiables que resuelven problemas reales, desde sistemas web y pipelines de datos, hasta sistemas RAG y arquitecturas MultiAgente con persistencia de memoria orientados a producción.
+Me enfoco en resolver problemas de negocio complejos mediante Pipelines de datos seguros, sistemas automatizados de Machine Learning, arquitecturas Multi-Agente escalables y sistemas RAG avanzados.
 
-Del código a los datos, y de los datos a la IA. Mi trayectoria comenzó en el Desarrollo Web Full Stack, evolucionó hacia Data Science y DevOps, y actualmente me especializo como AI Engineer con foco en MLOps, LLMOps y GenAI Ops.
+Del código a los datos, y de los datos a la IA. Mi trayectoria comenzó en el Desarrollo Web Full Stack, evolucionó hacia DevOps y Data Science, y actualmente me especializo como AI Engineer con foco en MLOps y LLMOps.
 
-Creo que el mayor reto actual de la IA no es construir nuevos modelos, sino llevarlos a producción. Por eso me enfoco en el diseño de pipelines, establezco guardrails y sandboxes, y aseguro soberanía de datos para que los Pipelines, LLMs y agentes de IA, funcionen de forma segura y escalable en entornos reales.
+Creo que el mayor reto actual de la IA no es crear nuevos modelos, sino llevarlos a producción de manera segura. Por eso me enfoco en el diseño de Pipelines automatizados, establezco Guardrails y Sandboxes, y priorizo la soberanía y seguridad de datos para construir sistemas confiables, escalables y operables en entornos reales.
 
 
 ---
