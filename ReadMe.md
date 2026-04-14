@@ -7,7 +7,8 @@
 
 ---
 
-Soy AI Engineer especializado en diseñar y construir sistemas de inteligencia artificial listos para producción.
+
+Soy AI Engineer especializado en diseñar y construir sistemas de inteligencia artificial.
 
 Me enfoco en resolver problemas de negocio complejos mediante Pipelines de datos seguros, sistemas automatizados de Machine Learning, arquitecturas Multi-Agente escalables y sistemas RAG avanzados.
 
