@@ -21,7 +21,7 @@ Mi enfoque está en construir sistemas confiables y mantenibles, ya sea en infra
 <h3 align="center">Metodologías y Arquitecturas</h3>
 
 <p align="center">
-<code>Microservices</code> | <code>Cloud Native</code> | <code>CI/CD</code> | <code>DevOps</code> |<code>MLOps</code> | <code>LLMOps</code> | <code>Agent AI Ops</code> | <code>Multi-Agent Architecture</code> |  <code>Agile</code> | <code>SCRUM</code> <code>CRISP-DM</code> |
+<code>MLOps</code> | <code>AIOps</code> | <code>LLMOps</code> | <code>SOLID</code> | <code>Agile</code> | <code>SCRUM</code> | <code>CI/CD</code> |  <code>Microservices</code> | <code>Cloud Native</code> | <code>Multi-Agent Architecture</code> | <code>RAG</code> |
 </p>
 
 
