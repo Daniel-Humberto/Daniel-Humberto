@@ -47,7 +47,7 @@ Mi enfoque está en construir sistemas confiables y mantenibles, ya sea en infra
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a>
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a>
 </p>
 
 
@@ -67,9 +67,7 @@ Mi enfoque está en construir sistemas confiables y mantenibles, ya sea en infra
 
 
 <h3 align="center">Redes Sociales</h3>
-
 <p align="center">
-
   <a href="https://www.github.com/Daniel-Humberto" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
@@ -77,7 +75,6 @@ Mi enfoque está en construir sistemas confiables y mantenibles, ya sea en infra
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
     </picture>
   </a>
-
   <a href="https://www.codepen.io/Daniel-Humberto" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" />
@@ -85,7 +82,6 @@ Mi enfoque está en construir sistemas confiables y mantenibles, ya sea en infra
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" />
     </picture>
   </a>
-
   <a href="https://www.linkedin.com/in/daniel-humberto/" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
@@ -93,7 +89,6 @@ Mi enfoque está en construir sistemas confiables y mantenibles, ya sea en infra
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
     </picture>
   </a>
-
   <a href="https://www.dev.to/humbertdev" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" />
@@ -101,7 +96,6 @@ Mi enfoque está en construir sistemas confiables y mantenibles, ya sea en infra
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" />
     </picture>
   </a>
-
 </p>
 
 
