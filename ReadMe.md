@@ -18,17 +18,17 @@ Mi enfoque está en construir sistemas confiables y mantenibles, ya sea en infra
 ---
 
 
-<h3 align="center">Metodologías y Arquitecturas</h3>
+<h3 align="center">Metodologías, Prácticas, y Arquitecturas</h3>
 
 <p align="center">
-<code>MLOps</code> | <code>AIOps</code> | <code>LLMOps</code> | <code>SOLID</code> | <code>Agile</code> | <code>SCRUM</code> | <code>CI/CD</code> |  <code>Microservices</code> | <code>Cloud Native</code> | <code>Multi-Agent Architecture</code> | <code>RAG</code> |
+<code>MLOps</code> | <code>AIOps</code> | <code>LLMOps</code> | <code>SOLID</code> | <code>Agile</code> | <code>CI/CD</code> |  <code>Microservices</code> | <code>Cloud Native</code> | <code>Multi-Agent Architecture</code> | <code>RAG</code> |
 </p>
 
 
 ---
 
 
-<h3 align="center">Habilidades</h3>
+<h3 align="center">Stack Tecnológico e Infraestructura</h3>
 
 
 <p align="center">
