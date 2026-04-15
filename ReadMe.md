@@ -8,19 +8,28 @@
 ---
 
 
-Soy AI Engineer especializado en diseñar y construir sistemas de inteligencia artificial.
+Soy AI Engineer especializado en **AI Engineer, AI Infrastructure, LLMOps, Agent AI Ops, y MLOps**.
 
-Me enfoco en resolver problemas de negocio complejos mediante Pipelines de datos seguros, sistemas automatizados de Machine Learning, arquitecturas Multi-Agente escalables y sistemas RAG avanzados.
+Diseño, despliego y opero soluciones de IA de extremo a extremo, desde prototipos funcionales hasta sistemas productivos escalables. Trabajo con pipelines RAG evaluados, arquitecturas multiagente orquestadas con LangGraph, workflows de inferencia seguros y stacks observables con Prometheus y Grafana.
 
-Del código a los datos, y de los datos a la IA. Mi trayectoria comenzó en el Desarrollo Web Full Stack, evolucionó hacia DevOps y Data Science, y actualmente me especializo como AI Engineer con foco en MLOps y LLMOps.
-
-Creo que el mayor reto actual de la IA no es crear nuevos modelos, sino llevarlos a producción de manera segura. Por eso me enfoco en el diseño de Pipelines automatizados, establezco Guardrails y Sandboxes, y priorizo la soberanía y seguridad de datos para construir sistemas confiables, escalables y operables en entornos reales.
+Mi enfoque está en construir sistemas confiables y mantenibles, ya sea en infraestructura self-hosted, cloud o entornos orquestados con Kubernetes. Priorizo seguridad, trazabilidad, rendimiento y buenas prácticas operativas para convertir soluciones de IA en productos escalables y sostenibles.
 
 
 ---
 
 
 <h3 align="center">Habilidades</h3>
+
+<p align="center">
+  <code>FastAPI</code> | <code>LangChain / LangGraph</code> | <code>Qdrant / Vector DBs</code> | <code>Redis</code> | <code>Prometheus / Grafana</code> | <code>CI/CD</code>
+</p>
+
+
+---
+
+
+<h3 align="center">Habilidades</h3>
+
 
 <p align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -34,7 +43,7 @@ Creo que el mayor reto actual de la IA no es crear nuevos modelos, sino llevarlo
   <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="FastAPI" /></a>
 </p>
 
 
@@ -56,6 +65,7 @@ Creo que el mayor reto actual de la IA no es crear nuevos modelos, sino llevarlo
 <h3 align="center">Redes Sociales</h3>
 
 <p align="center">
+
   <a href="https://www.github.com/Daniel-Humberto" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
@@ -63,6 +73,7 @@ Creo que el mayor reto actual de la IA no es crear nuevos modelos, sino llevarlo
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
     </picture>
   </a>
+
   <a href="https://www.codepen.io/Daniel-Humberto" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" />
@@ -70,6 +81,7 @@ Creo que el mayor reto actual de la IA no es crear nuevos modelos, sino llevarlo
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" />
     </picture>
   </a>
+
   <a href="https://www.linkedin.com/in/daniel-humberto/" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
@@ -77,6 +89,7 @@ Creo que el mayor reto actual de la IA no es crear nuevos modelos, sino llevarlo
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
     </picture>
   </a>
+
   <a href="https://www.dev.to/humbertdev" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" />
@@ -84,6 +97,7 @@ Creo que el mayor reto actual de la IA no es crear nuevos modelos, sino llevarlo
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" />
     </picture>
   </a>
+
 </p>
 
 
