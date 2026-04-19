@@ -31,8 +31,6 @@ Mi enfoque está en construir sistemas confiables y mantenibles, ya sea en infra
 <h3 align="center">Stack Tecnológico e Infraestructura</h3>
 
 
-<h3 align="center">Stack Tecnológico e Infraestructura</h3>
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" />
