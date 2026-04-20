@@ -9,8 +9,9 @@
 
 
 Soy AI Engineer especializado en **MLOps, sistemas multiagente e infraestructura de IA**.
+Diseño, despliego y opero soluciones de IA de extremo a extremo, desde prototipos funcionales hasta sistemas productivos escalables. 
 
-Diseño, despliego y opero soluciones de IA de extremo a extremo, desde prototipos funcionales hasta sistemas productivos escalables. Trabajo con pipelines RAG evaluados, arquitecturas multiagente orquestadas con LangGraph, workflows de inferencia seguros y stacks observables con Langsmith, Prometheus y Grafana.
+Trabajo con pipelines RAG evaluados, arquitecturas multiagente orquestadas con LangGraph, workflows de inferencia seguros y stacks observables con Langsmith, Prometheus y Grafana.
 
 Mi enfoque está en construir sistemas confiables y mantenibles, ya sea en infraestructura self-hosted, cloud o entornos orquestados con Kubernetes. Priorizo seguridad, trazabilidad, rendimiento y buenas prácticas operativas para convertir soluciones de IA en productos escalables y sostenibles.
 
