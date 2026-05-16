@@ -8,7 +8,7 @@
 ---
 
 
-Soy AI Engineer especializado en **MLOps, sistemas multiagente e infraestructura de IA**.
+Soy AI Engineer especializado en **AIOps, sistemas multiagente e infraestructura de IA**.
 Diseño, despliego y opero soluciones de IA de extremo a extremo, desde prototipos funcionales hasta sistemas productivos escalables. 
 
 Trabajo con pipelines RAG evaluados, arquitecturas multiagente orquestadas con LangGraph, workflows de inferencia seguros y stacks observables con Langsmith, Prometheus y Grafana.
